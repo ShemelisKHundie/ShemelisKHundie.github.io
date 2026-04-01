@@ -10,13 +10,13 @@ title: Home
   <p style="font-size: 1rem; color: #6a737d;">Focusing on financial inclusion, digital connectivity, and reproducible workflows</p>
 </div>
 
-<!-- Profile Section - Two Column Layout -->
+<!-- Profile Section - Two Column Layout (WITHOUT social links) -->
 <div style="display: flex; flex-wrap: wrap; gap: 40px; margin-bottom: 40px; background: #f8f9fa; padding: 30px; border-radius: 10px;">
   <div style="flex: 1; min-width: 200px; text-align: center;">
     <img src="https://raw.githubusercontent.com/ShemelisKHundie/ShemelisKHundie.github.io/main/assets/images/profile.jpg" alt="Shemelis Kebede Hundie" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; border: 3px solid #fff; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
     <div style="margin-top: 15px;">
       <a href="/cv.pdf" style="display: inline-block; background: #0366d6; color: white; padding: 8px 20px; border-radius: 5px; text-decoration: none; margin: 5px;">Download CV</a>
-      <a href="mailto:your.email@example.com" style="display: inline-block; background: #28a745; color: white; padding: 8px 20px; border-radius: 5px; text-decoration: none; margin: 5px;">Email Me</a>
+      <a href="mailto:shemelis.hundie@example.com" style="display: inline-block; background: #28a745; color: white; padding: 8px 20px; border-radius: 5px; text-decoration: none; margin: 5px;">Email Me</a>
     </div>
   </div>
   
@@ -26,16 +26,11 @@ title: Home
     <div style="margin-top: 20px;">
       <p><strong>📍 Based in:</strong> Ethiopia</p>
       <p><strong>🎓 Education:</strong> MSc., Jimma University</p>
-      <p><strong>📊 Research Profiles:</strong> 
-        <a href="https://scholar.google.com/citations?user=sP5y6NUAAAAJ&hl=en">Google Scholar</a> | 
-        <a href="https://orcid.org/0000-0003-2316-0544">ORCID</a> | 
-        <a href="https://www.linkedin.com/in/shemelis-kebede-hundie-77743967/">LinkedIn</a>
-      </p>
     </div>
   </div>
 </div>
 
-<!-- About This Site - IMMEDIATELY AFTER PROFILE SECTION -->
+<!-- About This Site -->
 <div style="background: linear-gradient(135deg, #0366d6 0%, #1a4d8c 100%); padding: 25px 30px; border-radius: 12px; margin-bottom: 40px; color: white;">
   <h2 style="margin: 0 0 10px 0; color: white; border-bottom: none; font-size: 1.5rem;">📌 About This Site</h2>
   <p style="margin: 0; font-size: 1rem; line-height: 1.5; color: rgba(255,255,255,0.95);">This website shares my research interests, ongoing projects, and academic work. Here you'll find my publications, research activities, CV, and professional updates.</p>
@@ -78,15 +73,31 @@ title: Home
 <h2 style="border-bottom: 1px solid #eaecef; padding-bottom: 10px; margin-top: 40px;">📄 Selected Publications</h2>
 
 <div style="margin: 20px 0;">
-  <!-- Your 11 publications here (same as before) -->
+  <!-- Your 11 publications here -->
 </div>
 
-<!-- Connect with Me -->
+<!-- Connect with Me - ONE SECTION AT THE BOTTOM -->
 <h2 style="border-bottom: 1px solid #eaecef; padding-bottom: 10px; margin-top: 40px;">🔗 Connect with Me</h2>
-<div style="margin: 20px 0;">
-  <p><strong>Email:</strong> <a href="mailto:your.email@example.com">your.email@example.com</a></p>
-  <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/shemelis-kebede-hundie-77743967/">Shemelis Kebede Hundie</a></p>
-  <p><strong>Google Scholar:</strong> <a href="https://scholar.google.com/citations?user=sP5y6NUAAAAJ&hl=en">View Profile</a></p>
-  <p><strong>ORCID:</strong> <a href="https://orcid.org/0000-0003-2316-0544">0000-0003-2316-0544</a></p>
-  <p><strong>GitHub:</strong> <a href="https://github.com/ShemelisKHundie">ShemelisKHundie</a></p>
+<div style="margin: 20px 0; display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="flex: 1; min-width: 200px;">
+    <p><strong>📧 Email:</strong><br>
+    <a href="mailto:shemelis.hundie@example.com">shemelis.hundie@example.com</a></p>
+    
+    <p><strong>🔗 LinkedIn:</strong><br>
+    <a href="https://www.linkedin.com/in/shemelis-kebede-hundie-77743967/">Shemelis Kebede Hundie</a></p>
+    
+    <p><strong>📚 Google Scholar:</strong><br>
+    <a href="https://scholar.google.com/citations?user=sP5y6NUAAAAJ&hl=en">View Profile</a></p>
+  </div>
+  
+  <div style="flex: 1; min-width: 200px;">
+    <p><strong>🆔 ORCID:</strong><br>
+    <a href="https://orcid.org/0000-0003-2316-0544">0000-0003-2316-0544</a></p>
+    
+    <p><strong>💻 GitHub:</strong><br>
+    <a href="https://github.com/ShemelisKHundie">ShemelisKHundie</a></p>
+    
+    <p><strong>🐦 X (Twitter):</strong><br>
+    <a href="#">Add your handle</a></p>
+  </div>
 </div>
