@@ -144,7 +144,7 @@ title: Home
     <p><strong><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 16px; height: 16px; vertical-align: middle; margin-right: 5px;"> LinkedIn:</strong><br>
     <a href="https://www.linkedin.com/in/shemelis-kebede-hundie-77743967/">Shemelis Kebede Hundie</a></p>
     
-    <p><strong><img src="https://scholar.google.com/intl/en/scholar/images/1x/scholar_logo_16dp_1x.png" alt="Google Scholar" style="width: 18px; height: 18px; vertical-align: middle; margin-right: 5px;"> Google Scholar:</strong><br>
+    <p><strong><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlescholar.svg" alt="Google Scholar" style="width: 16px; height: 16px; vertical-align: middle; margin-right: 5px;"> Google Scholar:</strong><br>
     <a href="https://scholar.google.com/citations?user=sP5y6NUAAAAJ&hl=en">View Profile</a></p>
   </div>
   
