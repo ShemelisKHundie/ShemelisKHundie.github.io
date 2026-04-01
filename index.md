@@ -152,12 +152,11 @@ title: Home
     <p><strong><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;"> ORCID:</strong><br>
     <a href="https://orcid.org/0000-0003-2316-0544" target="_blank">0000-0003-2316-0544</a></p>
     
-    <p><strong><img src="https://www.webofscience.com/images/wos-logo-icon.svg" alt="Web of Science" style="width: 18px; height: 18px; vertical-align: middle; margin-right: 5px;"> Web of Science:</strong><br>
-    <a href="https://www.webofscience.com/wos/author/record/GQB-1068-2022" target="_blank">WoS</a></p>
+    <p><strong><img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Scopus_logo.svg" alt="Scopus" style="width: 22px; height: 22px; vertical-align: middle; margin-right: 5px;"> Scopus:</strong><br>
+    <a href="https://www.scopus.com/authid/detail.uri?authorId=57207760617" target="_blank">Author ID: 57207760617</a></p>
     
-    <p><strong><img src="https://www.scopus.com/static/images/scopus-logo-icon.svg" alt="Scopus" style="width: 18px; height: 18px; vertical-align: middle; margin-right: 5px;"> Scopus:</strong><br>
-    <a href="https://www.scopus.com/authid/detail.uri?authorId=57207760617" target="_blank">Scopus</a></p>
+    <p><strong><img src="https://upload.wikimedia.org/wikipedia/en/5/5b/Web_of_Science_Logo.png" alt="Web of Science" style="width: 18px; height: 18px; vertical-align: middle; margin-right: 5px;"> Web of Science:</strong><br>
+    <a href="https://www.webofscience.com/wos/author/record/GQB-1068-2022" target="_blank">Author Record</a></p>
   </div>
 </div>
-    
    
