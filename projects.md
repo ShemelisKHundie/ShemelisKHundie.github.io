@@ -1,6 +1,7 @@
 ---
 permalink: /projects
 ---
+
 # Projects
 
 Below is a selection of projects that reflect my work in econometrics, impact evaluation, financial inclusion, and digital development.
