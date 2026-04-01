@@ -7,5 +7,3 @@ permalink: /cv
 [Download CV (PDF)](/cv.pdf)
 
 Your CV content starts here...
-
-
