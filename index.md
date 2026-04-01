@@ -85,7 +85,7 @@ title: Home
 <p><strong>
   <img src="/assets/images/google-scholar-logo.png" 
        alt="Google Scholar"
-       style="width: 18px; height: 18px; vertical-align: middle; margin-right: 6px; background: white; border-radius: 50%; padding: 3px;">
+       style="width: 28px; height: 28px; vertical-align: middle; margin-right: 8px; background: white; border-radius: 50%; padding: 4px;">
   Google Scholar:
 </strong><br>
   <a href="https://scholar.google.com/citations?user=sP5y6NUAAAAJ&hl=en" target="_blank">View Profile</a>
