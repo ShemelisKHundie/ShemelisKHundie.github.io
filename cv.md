@@ -1,4 +1,5 @@
   ---
 permalink: /cv
 ---
-Here is my CV.
+[Download CV (PDF)](/cv.pdf)
+
