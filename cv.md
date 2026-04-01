@@ -1,1 +1,4 @@
-  Here is my CV.
+  ---
+permalink: /cv
+---
+Here is my CV.
