@@ -82,9 +82,15 @@ title: Home
     <p><strong><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 16px; height: 16px; vertical-align: middle; margin-right: 5px;"> LinkedIn:</strong><br>
     <a href="https://www.linkedin.com/in/shemelis-kebede-hundie-77743967/" target="_blank">Shemelis Kebede Hundie</a></p>
     
-    <p><strong><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 18px; height: 18px; vertical-align: middle; margin-right: 5px; background: white; border-radius: 50%; padding: 2px;"> Google Scholar:</strong><br>
-    <a href="https://scholar.google.com/citations?user=sP5y6NUAAAAJ&hl=en" target="_blank">View Profile</a></p>
-  </div>
+   <p><strong>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Google_Scholar_logo_2015.png"
+       alt="Google Scholar"
+       style="width: 18px; height: 18px; vertical-align: middle; margin-right: 5px; background: white; border-radius: 50%; padding: 2px;">
+  Google Scholar:
+</strong><br>
+  <a href="https://scholar.google.com/citations?user=sP5y6NUAAAAJ&hl=en" target="_blank">View Profile</a>
+</p>
+
   
   <div style="flex: 1; min-width: 200px;">
     <p><strong><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;"> ORCID:</strong><br>
