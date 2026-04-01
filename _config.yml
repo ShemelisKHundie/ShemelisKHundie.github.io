@@ -2,6 +2,11 @@ theme: jekyll-theme-minimal
 title: "Shemelis Kebede Hundie"
 description: "Personal website of Shemelis K. Hundie."
 
+# Disable the automatic GitHub profile link
+github:
+  is_project_page: false
+show_downloads: false
+
 navigation:
   - title: "Home"
     url: /
@@ -15,4 +20,3 @@ navigation:
     url: /CV
   - title: "Social Media Profiles"
     url: /social
-
