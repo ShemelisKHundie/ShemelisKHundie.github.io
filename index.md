@@ -50,7 +50,7 @@ title: Home
     <p style="margin: 5px 0 0; color: #586069;">Citations</p>
   </div>
   <div style="flex: 1; background: #fff; padding: 20px; border-radius: 8px; border: 1px solid #e1e4e8;">
-    <h2 style="margin: 0; color: #0366d6; font-size: 2rem;">[#]</h2>
+    <h2 style="margin: 0; color: #0366d6; font-size: 2rem;">4</h2>
     <p style="margin: 5px 0 0; color: #586069;">Projects</p>
   </div>
 </div>
