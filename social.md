@@ -11,5 +11,4 @@ Connect with me on:
 - [ORCID](https://orcid.org/0000-0003-2316-0544)
 - [GitHub](https://github.com/yourusername)
 ## Contact
-
-You can reach me at: [shimelis2012ju@gmail.com](shimelis2012ju@gmail.com)
+- You can reach me at: [shimelis2012ju@gmail.com](shimelis2012ju@gmail.com)
