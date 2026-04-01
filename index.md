@@ -16,7 +16,7 @@ title: Home
     <img src="https://raw.githubusercontent.com/ShemelisKHundie/ShemelisKHundie.github.io/main/assets/images/profile.jpg" alt="Shemelis Kebede Hundie" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; border: 3px solid #fff; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
     <div style="margin-top: 15px;">
       <a href="/cv.pdf" style="display: inline-block; background: #0366d6; color: white; padding: 8px 20px; border-radius: 5px; text-decoration: none; margin: 5px;">Download CV</a>
-      <a href="mailto:shemelis.hundie@example.com" style="display: inline-block; background: #28a745; color: white; padding: 8px 20px; border-radius: 5px; text-decoration: none; margin: 5px;">Email Me</a>
+      <a href="mailto:shimelis2012ju@gmail.com" style="display: inline-block; background: #28a745; color: white; padding: 8px 20px; border-radius: 5px; text-decoration: none; margin: 5px;">Email Me</a>
     </div>
   </div>
   
@@ -81,7 +81,7 @@ title: Home
 <div style="margin: 20px 0; display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 1; min-width: 200px;">
     <p><strong>📧 Email:</strong><br>
-    <a href="mailto:shemelis.hundie@example.com">shemelis.hundie@example.com</a></p>
+    <a href="mailto:shimelis2012ju@gmail.com">shimelis2012ju@gmail.com</a></p>
     
     <p><strong>🔗 LinkedIn:</strong><br>
     <a href="https://www.linkedin.com/in/shemelis-kebede-hundie-77743967/">Shemelis Kebede Hundie</a></p>
