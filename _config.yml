@@ -11,5 +11,5 @@ navigation:
     url: /research
   - title: "Projects"
     url: /projects
-
-
+  - title: "CV"
+    url: /CV
