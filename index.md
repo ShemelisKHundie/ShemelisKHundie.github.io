@@ -153,10 +153,10 @@ title: Home
     <a href="https://orcid.org/0000-0003-2316-0544" target="_blank">0000-0003-2316-0544</a></p>
     
     <p><strong><img src="https://www.webofscience.com/images/wos-logo-icon.svg" alt="Web of Science" style="width: 18px; height: 18px; vertical-align: middle; margin-right: 5px;"> Web of Science:</strong><br>
-    <a href="https://www.webofscience.com/wos/author/record/GQB-1068-2022" target="_blank">Author Record</a></p>
+    <a href="https://www.webofscience.com/wos/author/record/GQB-1068-2022" target="_blank">WoS</a></p>
     
     <p><strong><img src="https://www.scopus.com/static/images/scopus-logo-icon.svg" alt="Scopus" style="width: 18px; height: 18px; vertical-align: middle; margin-right: 5px;"> Scopus:</strong><br>
-    <a href="https://www.scopus.com/authid/detail.uri?authorId=57207760617" target="_blank">Author ID: 57207760617</a></p>
+    <a href="https://www.scopus.com/authid/detail.uri?authorId=57207760617" target="_blank">Scopus</a></p>
   </div>
 </div>
     
