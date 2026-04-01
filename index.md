@@ -16,7 +16,7 @@ title: Home
     <img src="https://raw.githubusercontent.com/ShemelisKHundie/ShemelisKHundie.github.io/main/assets/images/profile.jpg" alt="Shemelis Kebede Hundie" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; border: 3px solid #fff; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
     <div style="margin-top: 15px;">
       <a href="/cv.pdf" style="display: inline-block; background: #0366d6; color: white; padding: 8px 20px; border-radius: 5px; text-decoration: none; margin: 5px;">Download CV</a>
-      <a href="mailto:your.email@example.com" style="display: inline-block; background: #28a745; color: white; padding: 8px 20px; border-radius: 5px; text-decoration: none; margin: 5px;">Email Me</a>
+      <a href="mailto:shimelis2012ju@gmail.com" style="display: inline-block; background: #28a745; color: white; padding: 8px 20px; border-radius: 5px; text-decoration: none; margin: 5px;">Email Me</a>
     </div>
   </div>
   
