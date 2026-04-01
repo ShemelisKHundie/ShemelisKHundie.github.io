@@ -91,9 +91,9 @@ title: Home
     <a href="https://orcid.org/0000-0003-2316-0544" target="_blank">0000-0003-2316-0544</a></p>
     
     <p><strong><img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Scopus_logo.svg" alt="Scopus" style="width: 22px; height: 22px; vertical-align: middle; margin-right: 5px;"> Scopus:</strong><br>
-    <a href="https://www.scopus.com/authid/detail.uri?authorId=57207760617" target="_blank">Author ID: 57207760617</a></p>
+    <a href="https://www.scopus.com/authid/detail.uri?authorId=57207760617" target="_blank">Link</a></p>
     
     <p><strong><img src="https://upload.wikimedia.org/wikipedia/en/f/f3/Web_of_Science_Logo.png" alt="Web of Science" style="width: 18px; height: 18px; vertical-align: middle; margin-right: 5px;"> Web of Science:</strong><br>
-    <a href="https://www.webofscience.com/wos/author/record/GQB-1068-2022" target="_blank">Author Record</a></p>
+    <a href="https://www.webofscience.com/wos/author/record/GQB-1068-2022" target="_blank">Link</a></p>
   </div>
 </div> 
