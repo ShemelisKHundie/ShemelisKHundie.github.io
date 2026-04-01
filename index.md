@@ -83,7 +83,7 @@ title: Home
     <a href="https://www.linkedin.com/in/shemelis-kebede-hundie-77743967/" target="_blank">Shemelis Kebede Hundie</a></p>
     
 <p><strong>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Google_Scholar_logo_2015.png"
+  <img src="/assets/images/google-scholar-logo.png" 
        alt="Google Scholar"
        style="width: 18px; height: 18px; vertical-align: middle; margin-right: 6px; background: white; border-radius: 50%; padding: 3px;">
   Google Scholar:
