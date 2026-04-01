@@ -1,2 +1,2 @@
 # ShemelisKHundie
-Personal website of Shemelis K. Hundie.
+The is a personal website of Shemelis Kebede Hundie.
