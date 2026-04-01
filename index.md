@@ -25,7 +25,7 @@ title: Home
     
     <div style="margin-top: 20px;">
       <p><strong>📍 Based in:</strong> Ethiopia</p>
-      <p><strong>🎓 Education:</strong> [Your Degree], [Your University]</p>
+      <p><strong>🎓 Education:</strong> MSc., Jimma University</p>
       <p><strong>📊 Research Profiles:</strong> 
         <a href="https://scholar.google.com/citations?user=sP5y6NUAAAAJ&hl=en">Google Scholar</a> | 
         <a href="https://orcid.org/0000-0003-2316-0544">ORCID</a> | 
