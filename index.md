@@ -139,20 +139,20 @@ title: Home
 <div style="margin: 20px 0; display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 1; min-width: 200px;">
     <p><strong>📧 Email:</strong><br>
-    <a href="mailto:shimelis2012ju@gmail.com">shimelis2012ju@gmail.com</a></p>
+    <a href="mailto:shimelis2012ju@gmail.com" target="_blank">shimelis2012ju@gmail.com</a></p>
     
     <p><strong><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 16px; height: 16px; vertical-align: middle; margin-right: 5px;"> LinkedIn:</strong><br>
-    <a href="https://www.linkedin.com/in/shemelis-kebede-hundie-77743967/">Shemelis Kebede Hundie</a></p>
+    <a href="https://www.linkedin.com/in/shemelis-kebede-hundie-77743967/" target="_blank">Shemelis Kebede Hundie</a></p>
     
-    <p><strong><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlescholar.svg" alt="Google Scholar" style="width: 16px; height: 16px; vertical-align: middle; margin-right: 5px;"> Google Scholar:</strong><br>
-    <a href="https://scholar.google.com/citations?user=sP5y6NUAAAAJ&hl=en">View Profile</a></p>
+    <p><strong><img src="https://scholar.google.com/intl/en/scholar/images/1x/scholar_logo_16dp_1x.png" alt="Google Scholar" style="width: 18px; height: 18px; vertical-align: middle; margin-right: 5px; background: white; border-radius: 50%; padding: 2px;"> Google Scholar:</strong><br>
+    <a href="https://scholar.google.com/citations?user=sP5y6NUAAAAJ&hl=en" target="_blank">View Profile</a></p>
   </div>
   
   <div style="flex: 1; min-width: 200px;">
     <p><strong><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;"> ORCID:</strong><br>
-    <a href="https://orcid.org/0000-0003-2316-0544">0000-0003-2316-0544</a></p>
+    <a href="https://orcid.org/0000-0003-2316-0544" target="_blank">0000-0003-2316-0544</a></p>
     
     <p><strong><img src="https://github.githubassets.com/favicons/favicon.svg" alt="GitHub" style="width: 16px; height: 16px; vertical-align: middle; margin-right: 5px;"> GitHub:</strong><br>
-    <a href="https://github.com/ShemelisKHundie">ShemelisKHundie</a></p>
+    <a href="https://github.com/ShemelisKHundie" target="_blank">ShemelisKHundie</a></p>
   </div>
 </div>
