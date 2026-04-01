@@ -16,37 +16,25 @@ My dedication to fostering knowledge, methodological transparency, and practical
 
 ---
 
-## Research Interests
+## Research
 
-My research explores the intersection of **economic development, environmental sustainability, and technological transformation**. Key areas include:
+My research explores the intersection of **economic development, environmental sustainability, and technological transformation**.
 
-### 🌍 Environmental & Energy Economics
-- **ESG (Environmental, Social, and Governance)**
-- Energy-Globalization-Economy-Sustainability Nexus
-- Environmental Kuznets Curve (EKC)
-- Climate change and green growth strategies
-- Energy efficiency and renewable energy transitions
+### Research Themes
 
-### 📊 Applied Econometrics & Machine Learning
-- **Double Machine Learning (DML)** for causal inference in high-dimensional settings
-- **DoWhy** framework for causal graph modeling and sensitivity analysis
-- **DirectLiNGAM** for causal discovery and structural equation modeling
-- Advanced quantitative methods for policy evaluation
-- Machine learning applications in economics and sustainability
-- Impact evaluation and causal inference
-- Time series econometrics and forecasting
+| Theme | Focus Areas |
+|-------|-------------|
+| **🌍 Environmental & Energy Economics** | ESG, Energy-Globalization-Economy-Sustainability Nexus, Environmental Kuznets Curve (EKC), Climate change and green growth, Energy efficiency and renewable energy transitions |
+| **📊 Applied Econometrics & Machine Learning** | Double Machine Learning (DML), DoWhy, DirectLiNGAM, Causal inference, Impact evaluation, Time series econometrics and forecasting |
+| **💻 Digital Transformation** | Digital ecosystem benchmarking, Digital connectivity, Technology adoption and innovation diffusion, Digital divide and inclusive growth |
+| **🏛️ Development Economics** | Financial inclusion and gender gap analysis, Food security and nutrition, Poverty and inequality, Regional development and policy analysis |
 
-### 💻 Digital Transformation
-- Digital ecosystem benchmarking
-- Digital connectivity and economic development
-- Technology adoption and innovation diffusion
-- Digital divide and inclusive growth
+### Current Research Projects
 
-### 🏛️ Development Economics
-- Financial inclusion and gender gap analysis
-- Food security and nutrition
-- Poverty and inequality
-- Regional development and policy analysis
+- **ESG performance in emerging economies** using Double Machine Learning and causal inference frameworks
+- **Energy consumption, globalization, and environmental sustainability** nexus with DoWhy causal analysis and DirectLiNGAM for structural discovery
+- **Causal discovery in economic systems** using DirectLiNGAM to identify directional relationships
+- **Digital transformation and its impact** on economic development in Africa
 
 ---
 
@@ -74,16 +62,6 @@ I have taught a range of courses at the undergraduate and graduate levels, inclu
 - **International Economics**
 
 My teaching approach emphasizes practical application, data-driven analysis, and methodological rigor, equipping students with the skills needed for evidence-based policy analysis and academic research.
-
----
-
-## Current Research Focus
-
-- **ESG performance and firm-level outcomes** in emerging economies using Double Machine Learning and causal inference frameworks
-- **Energy consumption, globalization, and environmental sustainability** nexus with DoWhy causal analysis and DirectLiNGAM for structural discovery
-- **Causal discovery in economic systems** using DirectLiNGAM to identify directional relationships in complex macroeconomic data
-- **Machine learning approaches** for predicting economic and environmental indicators
-- **Digital transformation** and its impact on economic development in Africa
 
 ---
 
