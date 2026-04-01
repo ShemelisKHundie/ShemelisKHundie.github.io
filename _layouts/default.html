@@ -4,31 +4,146 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ site.title }}{% if page.title %} | {{ page.title }}{% endif %}</title>
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      line-height: 1.6;
+      color: #24292e;
+      background-color: #fff;
+      padding: 2rem;
+    }
+    
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    
+    header {
+      margin-bottom: 2rem;
+      padding-bottom: 1rem;
+      border-bottom: 1px solid #eaecef;
+    }
+    
+    header h1 {
+      font-size: 2rem;
+      margin-bottom: 0.5rem;
+      color: #24292e;
+    }
+    
+    header .description {
+      color: #586069;
+      margin-bottom: 1rem;
+    }
+    
+    nav {
+      margin-top: 1rem;
+    }
+    
+    nav a {
+      color: #0366d6;
+      text-decoration: none;
+      margin-right: 1rem;
+    }
+    
+    nav a:hover {
+      text-decoration: underline;
+    }
+    
+    main {
+      margin-bottom: 2rem;
+    }
+    
+    main h1, main h2, main h3 {
+      margin-top: 1.5rem;
+      margin-bottom: 1rem;
+      font-weight: 600;
+      line-height: 1.25;
+    }
+    
+    main h1 {
+      font-size: 1.8rem;
+      border-bottom: 1px solid #eaecef;
+      padding-bottom: 0.3rem;
+    }
+    
+    main h2 {
+      font-size: 1.5rem;
+      border-bottom: 1px solid #eaecef;
+      padding-bottom: 0.3rem;
+    }
+    
+    main p {
+      margin-bottom: 1rem;
+    }
+    
+    main ul, main ol {
+      margin-bottom: 1rem;
+      padding-left: 2rem;
+    }
+    
+    main li {
+      margin-bottom: 0.25rem;
+    }
+    
+    main a {
+      color: #0366d6;
+      text-decoration: none;
+    }
+    
+    main a:hover {
+      text-decoration: underline;
+    }
+    
+    footer {
+      margin-top: 2rem;
+      padding-top: 1rem;
+      border-top: 1px solid #eaecef;
+      font-size: 0.875rem;
+      color: #586069;
+      text-align: center;
+    }
+    
+    @media (max-width: 768px) {
+      body {
+        padding: 1rem;
+      }
+      
+      nav a {
+        display: inline-block;
+        margin-bottom: 0.5rem;
+      }
+    }
+  </style>
 </head>
 <body>
-  <header>
-    <h1>{{ site.title }}</h1>
-    {% if site.description %}
-      <p>{{ site.description }}</p>
-    {% endif %}
-    
-    {% if site.navigation %}
-      <nav>
-        {% for item in site.navigation %}
-          <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
-          {% unless forloop.last %} | {% endunless %}
-        {% endfor %}
-      </nav>
-    {% endif %}
-  </header>
+  <div class="container">
+    <header>
+      <h1>{{ site.title }}</h1>
+      {% if site.description %}
+        <div class="description">{{ site.description }}</div>
+      {% endif %}
+      {% if site.navigation %}
+        <nav>
+          {% for item in site.navigation %}
+            <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+          {% endfor %}
+        </nav>
+      {% endif %}
+    </header>
 
-  <main>
-    {{ content }}
-  </main>
+    <main>
+      {{ content }}
+    </main>
 
-  <footer>
-    <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
-  </footer>
+    <footer>
+      <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
+    </footer>
+  </div>
 </body>
 </html>
