@@ -9,5 +9,5 @@ This website shares my research interests, ongoing projects, and academic work.
 - [About Me](about.md)
 - [Research](research.md)
 - [Projects](projects.md)
-- [CV](CV.md)
+- [CV](cv.md)
 
