@@ -121,6 +121,24 @@ My research applies **advanced econometric methods and causal machine learning**
 
 ---
 
+## Methodological Projects
+
+### Bibliometric Analysis and Topic Modeling for Systematic Literature Review
+
+**Focus:** Applying machine learning and text mining techniques to systematically map research landscapes.
+
+**Methods:** Bibliometrix (R package), MALLET (Latent Dirichlet Allocation), BERTopic (BERT-based topic modeling)
+
+**Status:** Completed / In progress
+
+**Highlights:**
+- Multi-method topic modeling comparison (MALLET LDA + BERTopic)
+- Science mapping and research front identification using Bibliometrix
+- Co-authorship, citation, and keyword co-occurrence networks
+- Reproducible workflow for systematic literature reviews
+
+---
+
 ## Current Research Projects
 
 - **ESG performance in emerging economies** using Double Machine Learning and causal inference frameworks
