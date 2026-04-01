@@ -1,8 +1,14 @@
 <header>
-  <h1>{{ site.title }}</h1>
-  {% if site.description %}
-    <p>{{ site.description }}</p>
-  {% endif %}
+  <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+    <img src="/assets/images/profile.jpg" alt="{{ site.title }}" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
+    <div>
+      <h1>{{ site.title }}</h1>
+      {% if site.description %}
+        <p>{{ site.description }}</p>
+      {% endif %}
+    </div>
+  </div>
+  
   {% if site.navigation %}
     <nav>
       {% for item in site.navigation %}
