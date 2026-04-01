@@ -137,7 +137,7 @@ title: Home
 <!-- Connect with Me -->
 <h2 style="border-bottom: 1px solid #eaecef; padding-bottom: 10px; margin-top: 40px;">🔗 Connect with Me</h2>
 <div style="margin: 20px 0;">
-  <p><strong>Email:</strong> <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+  <p><strong>Email:</strong> <a href="mailto:shimelis2012ju@gmail.com">shimelis2012ju@gmail.com</a></p>
   <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/shemelis-kebede-hundie-77743967/">Shemelis Kebede Hundie</a></p>
   <p><strong>Google Scholar:</strong> <a href="https://scholar.google.com/citations?user=sP5y6NUAAAAJ&hl=en">View Profile</a></p>
   <p><strong>ORCID:</strong> <a href="https://orcid.org/0000-0003-2316-0544">0000-0003-2316-0544</a></p>
