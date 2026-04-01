@@ -156,7 +156,4 @@ Google Scholar:
     <p><strong><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;"> ORCID:</strong><br>
     <a href="https://orcid.org/0000-0003-2316-0544" target="_blank">0000-0003-2316-0544</a></p>
     
-    <p><strong><img src="https://github.githubassets.com/favicons/favicon.svg" alt="GitHub" style="width: 16px; height: 16px; vertical-align: middle; margin-right: 5px;"> GitHub:</strong><br>
-    <a href="https://github.com/ShemelisKHundie" target="_blank">ShemelisKHundie</a></p>
-  </div>
-</div>
+   
