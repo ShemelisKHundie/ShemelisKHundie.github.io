@@ -13,3 +13,9 @@ navigation:
     url: /projects
   - title: "CV"
     url: /CV
+  - title: "LinkedIn"
+    url: https://www.linkedin.com/in/YOUR-ID
+  - title: "Google Scholar"
+    url: https://scholar.google.com/citations?user=YOUR-ID
+  - title: "ORCID"
+    url: https://orcid.org/YOUR-ORCID-ID
