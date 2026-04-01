@@ -1,5 +1,5 @@
 ---
-permalink: /projects
+projects
 ---
 
 # Projects
