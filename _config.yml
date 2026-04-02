@@ -1,7 +1,17 @@
 theme: jekyll-theme-minimal
-title: "Shemelis Kebede Hundie"
-description: "Personal website of Shemelis K. Hundie."
 
+title: "Shemelis Kebede Hundie"
+description: "Econometric analyst and researcher specializing in impact evaluation, financial inclusion, and reproducible workflows."
+
+# Enable sitemap generation (critical for Google indexing)
+plugins:
+  - jekyll-sitemap
+
+# Optional but recommended: set your site URL
+url: "https://shemeliskhundie.github.io"
+baseurl: ""   # keep empty for user.github.io sites
+
+# Navigation
 navigation:
   - title: "Home"
     url: /
