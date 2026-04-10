@@ -1,8 +1,26 @@
 ---
 layout: default
 title: "Shemelis Kebede Hundie"
-
 ---
+
+<!-- SEO: Meta Description -->
+<meta name="description" content="Official website of Shemelis Kebede Hundie, econometric analyst and researcher focusing on impact evaluation, financial inclusion, digital connectivity, and reproducible workflows.">
+
+<!-- Structured Data: Person Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Shemelis Kebede Hundie",
+  "jobTitle": "Econometric Analyst and Researcher",
+  "email": "mailto:shimelis2012ju@gmail.com",
+  "url": "https://shemeliskhundie.github.io",
+  "affiliation": {
+    "@type": "CollegeOrUniversity",
+    "name": "University of Pécs"
+  }
+}
+</script>
 
 <!-- Header Section -->
 <div style="text-align: center; margin-bottom: 50px;">
