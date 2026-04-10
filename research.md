@@ -25,7 +25,11 @@ My research applies **advanced econometric methods and causal machine learning**
     <strong>Hundie, S.K.</strong>, & Csapi, V. (2026). Nonlinear effects of economic growth on environmental sustainability in Hungary: The roles of globalization and energy imports. <em>Energy, Ecology and Environment</em>.<br>
     <a href="https://doi.org/10.1007/s40974-026-00409-8" target="_blank">https://doi.org/10.1007/s40974-026-00409-8</a>
   </div>
-  
+  <div style="margin-bottom: 25px; padding-bottom: 15px; border-bottom: 1px solid #f0f0f0;">
+    Hundie, S.K., & Strode, J. (2026). Context-sensitive leadership: A theory-driven integrative review and implementation framework for the AI Era. <em>Strategic Business Research</em>, 100127.<br>
+    <a href="https://doi.org/10.1016/j.jairtraman.2025.102924" target="_blank">https://doi.org/10.1016/j.jairtraman.2025.102924</a>
+</div>
+
   <div style="margin-bottom: 25px; padding-bottom: 15px; border-bottom: 1px solid #f0f0f0;">
     Mehare, A., Abdisa, L., Hawitibo, A., & <strong>Hundie, S.K.</strong> (2026). The food price changes and gender gap in child nutritional status in Ethiopia. <em>Child Indicators Research</em>, <em>19</em>, 729–763.<br>
     <a href="https://doi.org/10.1007/s12187-025-10313-y" target="_blank">https://doi.org/10.1007/s12187-025-10313-y</a>
