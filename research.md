@@ -27,7 +27,7 @@ My research applies **advanced econometric methods and causal machine learning**
   </div>
   <div style="margin-bottom: 25px; padding-bottom: 15px; border-bottom: 1px solid #f0f0f0;">
     Hundie, S.K., & Strode, J. (2026). Context-sensitive leadership: A theory-driven integrative review and implementation framework for the AI Era. <em>Strategic Business Research</em>, 100127.<br>
-    <a href="https://doi.org/10.1016/j.sbr.2026.100127" target="_blank">https://doi.org/10.1016/j.jairtraman.2025.102924</a>
+    <a href="https://doi.org/10.1016/j.sbr.2026.100127" target="_blank">https://doi.org/10.1016/j.sbr.2026.100127</a>
 </div>
 
   <div style="margin-bottom: 25px; padding-bottom: 15px; border-bottom: 1px solid #f0f0f0;">
