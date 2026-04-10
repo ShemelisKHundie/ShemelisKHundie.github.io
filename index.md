@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Home
+title: "Shemelis Kebede Hundie"
+
 ---
 
 <!-- Header Section -->
