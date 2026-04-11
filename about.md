@@ -8,9 +8,9 @@ permalink: /about
 
 ## Professional Background
 
-I am a **PhD student, academician, and researcher** specializing in regional policy, economics, and digital ecosystem benchmarking. With over a decade of experience in academia and consulting, I bring advanced expertise in quantitative analysis using **Stata, EViews, Gretl, Matlab, R, SPSS, and Python**.
+I am a PhD student, academic, and researcher specializing in regional policy, economics, and digital-ecosystem benchmarking. With over a decade of experience in academia and consulting, I bring advanced expertise in quantitative analysis using **Stata, EViews, Gretl, Matlab, R, SPSS, and Python**.
 
-At the Ethiopian Public Service University, I have contributed for more than nine years as a lecturer, designing and delivering evidence-based courses that empower students and professionals to achieve their academic and career goals. My focus is on leveraging statistical data analysis and methodological rigor to support data-driven decision-making and impactful policy research.
+At the Ethiopian Public Service University, I have been a lecturer for more than nine years, designing and delivering evidence-based courses that help students and professionals reach their academic and career goals. My focus is on leveraging statistical data analysis and methodological rigor to support data-driven decision-making and impactful policy research.
 
 My dedication to fostering knowledge, methodological transparency, and practical learning underscores my commitment to professional growth and meaningful contributions within both academic and consultancy spaces.
 
@@ -48,7 +48,7 @@ My research explores the intersection of **economic development, renewable energ
 
 | Category | Tools & Methods |
 |----------|-----------------|
-| **Statistical Software** | Stata, EViews, Gretl, Matlab, R, Python |
+| **Statistical Software** | Stata, EViews, Gretl, Matlab, R, SPSS, and Python |
 | **Causal Machine Learning** | Double Machine Learning (DML), DoWhy, DirectLiNGAM, Causal Forests |
 | **Econometric Methods** | ARDL, Cointegration, Panel Data Analysis, Non-linear Models, Threshold Regression, Granger Causality |
 | **Machine Learning** | Supervised and unsupervised learning, Random Forests, Gradient Boosting, Neural Networks |
