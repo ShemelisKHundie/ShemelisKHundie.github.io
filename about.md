@@ -8,7 +8,7 @@ permalink: /about
 
 ## Professional Background
 
-I am a **PhD student, academician, and researcher** specializing in regional policy, economics, and digital ecosystem benchmarking. With over a decade of experience in academia and consulting, I bring advanced expertise in quantitative analysis using **Stata, EViews, Gretl, Matlab, R, and Python**.
+I am a **PhD student, academician, and researcher** specializing in regional policy, economics, and digital ecosystem benchmarking. With over a decade of experience in academia and consulting, I bring advanced expertise in quantitative analysis using **Stata, EViews, Gretl, Matlab, R, SPSS, and Python**.
 
 At the Ethiopian Public Service University, I have contributed for more than nine years as a lecturer, designing and delivering evidence-based courses that empower students and professionals to achieve their academic and career goals. My focus is on leveraging statistical data analysis and methodological rigor to support data-driven decision-making and impactful policy research.
 
