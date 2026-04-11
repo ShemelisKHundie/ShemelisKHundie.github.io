@@ -54,7 +54,7 @@ My research explores the intersection of **economic development, renewable energ
 | **Machine Learning** | Supervised and unsupervised learning, Random Forests, Gradient Boosting, Neural Networks |
 | **Text Mining & Topic Modeling** | LLM-BERTopic, NLP, sentiment analysis, computational text analysis |
 | **Survey Design & Digital Data Collection** | KoboToolbox, ODK, questionnaire design, sampling strategies |
-| **Impact Evaluation** | Difference-in-Differences, Propensity Score Matching, Instrumental Variables, Synthetic Control |
+| **Impact Evaluation** | Difference-in-Differences, Propensity Score Matching, Instrumental Variables, Synthetic Control Method, DoWhy |
 
 ---
 
