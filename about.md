@@ -15,10 +15,13 @@ At the Ethiopian Public Service University, I have contributed for more than nin
 My dedication to fostering knowledge, methodological transparency, and practical learning underscores my commitment to professional growth and meaningful contributions within both academic and consultancy spaces.
 
 ---
+## Professional Affiliations
 
+- **Ethiopian Economics Association (EEA)** — Full member since 2013
+---
 ## Research
 
-My research explores the intersection of **economic development, environmental sustainability, and technological transformation**.
+My research explores the intersection of **economic development, renewable energy consumption, environmental sustainability, and globalization**.
 
 ### Research Themes
 
@@ -27,14 +30,17 @@ My research explores the intersection of **economic development, environmental s
 | **🌍 Environmental & Energy Economics** | ESG, Energy-Globalization-Economy-Sustainability Nexus, Environmental Kuznets Curve (EKC), Climate change and green growth, Energy efficiency and renewable energy transitions |
 | **📊 Applied Econometrics & Machine Learning** | Double Machine Learning (DML), DoWhy, DirectLiNGAM, Causal inference, Impact evaluation, Time series econometrics and forecasting |
 | **💻 Digital Transformation** | Digital ecosystem benchmarking, Digital connectivity, Technology adoption and innovation diffusion, Digital divide and inclusive growth |
-| **🏛️ Development Economics** | Financial inclusion and gender gap analysis, Food security and nutrition, Poverty and inequality, Regional development and policy analysis |
+| **🏛️ Development Economics** | Financial inclusion and gender gap analysis, food security and nutrition, poverty and inequality, regional development and policy analysis |
 
-### Current Research Projects
+### Ongoing Research Projects
 
-- **ESG performance in emerging economies** using Double Machine Learning and causal inference frameworks
-- **Energy consumption, globalization, and environmental sustainability** nexus with DoWhy causal analysis and DirectLiNGAM for structural discovery
-- **Causal discovery in economic systems** using DirectLiNGAM to identify directional relationships
-- **Digital transformation and its impact** on economic development in Africa
+- **Causal analysis of digital connectivity on financial inclusion** — estimating the impact of digital infrastructure on access to financial services
+
+- **ESG investment and greenwashing discourse in literature** — topic modeling of academic and industry texts using LLM-BERTopic
+
+- **Systematic literature review (SLR) on ESG investment as real options** — synthesizing evidence on the valuation of ESG under uncertainty
+
+- **Systematic literature review on ESG, green innovation, and firms' resilience to economic shocks** — reviewing how environmental and innovation strategies affect corporate robustness during crises
 
 ---
 
@@ -46,6 +52,8 @@ My research explores the intersection of **economic development, environmental s
 | **Causal Machine Learning** | Double Machine Learning (DML), DoWhy, DirectLiNGAM, Causal Forests |
 | **Econometric Methods** | ARDL, Cointegration, Panel Data Analysis, Non-linear Models, Threshold Regression, Granger Causality |
 | **Machine Learning** | Supervised and unsupervised learning, Random Forests, Gradient Boosting, Neural Networks |
+| **Text Mining & Topic Modeling** | LLM-BERTopic, NLP, sentiment analysis, computational text analysis |
+| **Survey Design & Digital Data Collection** | KoboToolbox, ODK, questionnaire design, sampling strategies |
 | **Impact Evaluation** | Difference-in-Differences, Propensity Score Matching, Instrumental Variables, Synthetic Control |
 
 ---
@@ -67,6 +75,6 @@ My teaching approach emphasizes practical application, data-driven analysis, and
 
 ## Professional Service
 
-- Peer reviewer for international journals in environmental economics and development
+- Peer reviewer for international journals in environmental economics, development economics, and energy policy
 - Consultant for policy research and data analysis projects
 - Mentor for graduate students in quantitative research methods
