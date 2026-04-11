@@ -8,6 +8,8 @@ permalink: /research
 
 My research applies **advanced econometric methods and causal machine learning** to address critical questions in development economics, environmental sustainability, and digital transformation.
 
+*For methodological expertise (software, causal ML, econometrics, text mining, survey design, impact evaluation), see [About](/about).*
+
 ---
 
 ## Publications
@@ -25,10 +27,11 @@ My research applies **advanced econometric methods and causal machine learning**
     <strong>Hundie, S.K.</strong>, & Csapi, V. (2026). Nonlinear effects of economic growth on environmental sustainability in Hungary: The roles of globalization and energy imports. <em>Energy, Ecology and Environment</em>.<br>
     <a href="https://doi.org/10.1007/s40974-026-00409-8" target="_blank">https://doi.org/10.1007/s40974-026-00409-8</a>
   </div>
+
   <div style="margin-bottom: 25px; padding-bottom: 15px; border-bottom: 1px solid #f0f0f0;">
     Hundie, S.K., & Strode, J. (2026). Context-sensitive leadership: A theory-driven integrative review and implementation framework for the AI Era. <em>Strategic Business Research</em>, 100127.<br>
     <a href="https://doi.org/10.1016/j.sbr.2026.100127" target="_blank">https://doi.org/10.1016/j.sbr.2026.100127</a>
-</div>
+  </div>
 
   <div style="margin-bottom: 25px; padding-bottom: 15px; border-bottom: 1px solid #f0f0f0;">
     Mehare, A., Abdisa, L., Hawitibo, A., & <strong>Hundie, S.K.</strong> (2026). The food price changes and gender gap in child nutritional status in Ethiopia. <em>Child Indicators Research</em>, <em>19</em>, 729–763.<br>
@@ -133,7 +136,7 @@ My research applies **advanced econometric methods and causal machine learning**
 
 **Methods:** Bibliometrix (R package), MALLET (Latent Dirichlet Allocation), BERTopic (BERT-based topic modeling)
 
-**Status:** Completed / In progress
+**Status:** In progress
 
 **Highlights:**
 - Multi-method topic modeling comparison (MALLET LDA + BERTopic)
@@ -145,21 +148,13 @@ My research applies **advanced econometric methods and causal machine learning**
 
 ## Current Research Projects
 
-- **ESG performance in emerging economies** using Double Machine Learning and causal inference frameworks
-- **Energy consumption, globalization, and environmental sustainability** nexus with DoWhy causal analysis and DirectLiNGAM for structural discovery
-- **Causal discovery in economic systems** using DirectLiNGAM to identify directional relationships
-- **Digital transformation and its impact** on economic development in Africa
+- **Causal analysis of digital connectivity on financial inclusion** — estimating the impact of digital infrastructure on access to financial services
 
----
+- **ESG investment and greenwashing discourse in literature** — topic modeling of academic and industry texts using LLM-BERTopic
 
-## Research Methods & Tools
+- **Systematic literature review (SLR) on ESG investment as real options** — synthesizing evidence on the valuation of ESG under uncertainty
 
-| Category | Methods / Tools |
-|----------|-----------------|
-| **Causal Inference** | Double Machine Learning (DML), DoWhy, DirectLiNGAM, Causal Forests |
-| **Econometrics** | ARDL, Cointegration, Panel Data, Spatial Durbin Model, Threshold Regression, Granger Causality |
-| **Software** | Stata, R, Python, EViews, Gretl, Matlab |
-| **Machine Learning** | Random Forests, Gradient Boosting, Neural Networks |
+- **SLR on ESG, green innovation, and firms' resilience to economic shocks** — reviewing how environmental and innovation strategies affect corporate robustness during crises
 
 ---
 
