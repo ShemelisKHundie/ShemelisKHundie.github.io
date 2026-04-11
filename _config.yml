@@ -5,6 +5,7 @@ description: "Researcher specializing in ESG, the environment–globalization–
 
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 url: "https://shemeliskhundie.github.io"
 baseurl: ""
