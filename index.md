@@ -36,8 +36,9 @@ title: "Shemelis Kebede Hundie"
     <p style="font-size: 1.1rem; line-height: 1.6;">I am an econometric analyst and researcher specializing in ESG, the environment–growth–energy–globalization–sustainability nexus, impact evaluation, financial inclusion, and reproducible workflows. My work uses rigorous quantitative methods to evaluate development interventions and inform evidence-based policy..</p>
     
     <div style="margin-top: 20px;">
-      <p><strong>📍 Based in:</strong> Ethiopia</p>
+      <p><strong>📍 Based in:</strong> Hungary, Pecs</p>
       <p><strong>🎓 Education:</strong> MSc., Jimma University</p>
+      <p><strong>🏛 Affiliation:</strong> University of Pécs, Hungary</p>
     </div>
   </div>
 </div>
