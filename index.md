@@ -22,13 +22,6 @@ title: "Shemelis Kebede Hundie"
 }
 </script>
 
-<!-- Header Section -->
-<div style="text-align: center; margin-bottom: 50px;">
-  <h1 style="font-size: 2.5rem; margin-bottom: 10px; color: #24292e;">Shemelis Kebede Hundie</h1>
-  <p style="font-size: 1.2rem; color: #586069; margin-bottom: 5px;">Econometric Analyst | Impact Evaluation Specialist | Researcher</p>
-  <p style="font-size: 1rem; color: #6a737d;">Focusing on financial inclusion, digital connectivity, and reproducible workflows</p>
-</div>
-
 <!-- Profile Section - Two Column Layout -->
 <div style="display: flex; flex-wrap: wrap; gap: 40px; margin-bottom: 40px; background: #f8f9fa; padding: 30px; border-radius: 10px;">
   <div style="flex: 1; min-width: 200px; text-align: center;">
