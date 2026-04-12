@@ -33,7 +33,7 @@ title: "Shemelis Kebede Hundie"
   </div>
   
   <div style="flex: 2;">
-    <p style="font-size: 1.1rem; line-height: 1.6;">I am an <strong>econometric analyst and researcher</strong> with expertise in impact evaluation, financial inclusion, digital connectivity, and reproducible workflows. My work focuses on using rigorous quantitative methods to evaluate development interventions and inform evidence-based policy.</p>
+    <p style="font-size: 1.1rem; line-height: 1.6;">I am an econometric analyst and researcher specializing in ESG, the environment–growth–energy–globalization–sustainability nexus, impact evaluation, financial inclusion, and reproducible workflows. My work uses rigorous quantitative methods to evaluate development interventions and inform evidence-based policy..</p>
     
     <div style="margin-top: 20px;">
       <p><strong>📍 Based in:</strong> Ethiopia</p>
