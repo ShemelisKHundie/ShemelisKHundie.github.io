@@ -60,3 +60,7 @@ a:hover {
 img {
   max-width: 100%;
 }
+ul li:last-child {
+  font-weight: normal !important;
+}
+
