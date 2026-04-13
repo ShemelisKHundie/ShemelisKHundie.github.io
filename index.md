@@ -52,15 +52,15 @@ title: "Shemelis Kebede Hundie"
 <!-- Statistics Section -->
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 40px; text-align: center;">
   <div style="flex: 1; background: #fff; padding: 20px; border-radius: 8px; border: 1px solid #e1e4e8;">
-    <h2 style="margin: 0; color: #0366d6; font-size: 2rem;">10+</h2>
+    <h2 style="margin: 0; color: #0366d6; font-size: 2rem;">15+</h2>
     <p style="margin: 5px 0 0; color: #586069;">Years Experience</p>
   </div>
   <div style="flex: 1; background: #fff; padding: 20px; border-radius: 8px; border: 1px solid #e1e4e8;">
-    <h2 style="margin: 0; color: #0366d6; font-size: 2rem;">11</h2>
+    <h2 style="margin: 0; color: #0366d6; font-size: 2rem;">15</h2>
     <p style="margin: 5px 0 0; color: #586069;">Publications</p>
   </div>
   <div style="flex: 1; background: #fff; padding: 20px; border-radius: 8px; border: 1px solid #e1e4e8;">
-    <h2 style="margin: 0; color: #0366d6; font-size: 2rem;">402</h2>
+    <h2 style="margin: 0; color: #0366d6; font-size: 2rem;">405</h2>
     <p style="margin: 5px 0 0; color: #586069;">Citations</p>
   </div>
   <div style="flex: 1; background: #fff; padding: 20px; border-radius: 8px; border: 1px solid #e1e4e8;">
