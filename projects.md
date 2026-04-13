@@ -52,7 +52,7 @@ Below is a selection of projects that reflect my work in econometrics, impact ev
 **Highlights:**
 - Developed a structured search and screening protocol for ESG–real options literature  
 - Applied BERTopic to identify dominant themes, conceptual clusters, and emerging debates  
-- Mapped discourse on investment timing, uncertainty, sustainability commitments, and greenwashing-related strategic behavior  
+- Mapped discourse on investment timing, uncertainty, sustainability commitments, and greenwashing-related strategic behavior
 - Built a reproducible workflow integrating text preprocessing, topic modeling, and visualization
 ---
 
