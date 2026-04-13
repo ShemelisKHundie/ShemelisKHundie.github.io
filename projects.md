@@ -54,6 +54,7 @@ Below is a selection of projects that reflect my work in econometrics, impact ev
 - Applied BERTopic to identify dominant themes, conceptual clusters, and emerging debates  
 - Mapped discourse on investment timing, uncertainty, sustainability commitments, and greenwashing-related strategic behavior
 - Built a reproducible workflow integrating text preprocessing, topic modeling, and visualization
+  
 ---
 
 ## 🌱 4. Systematic Literature Review on ESG, Green Innovation, and Firms’ Resilience to Economic Shocks
