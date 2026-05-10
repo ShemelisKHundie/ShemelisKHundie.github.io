@@ -73,3 +73,16 @@ Below is a selection of projects that reflect my work in econometrics, impact ev
 
 ---
 
+## 🕸️ 5. Decoupling the Walk from the Talk: Using Bivariate Networks to Identify Latent Greenwashing in South African Firms
+
+**Focus:** Applying bivariate network analysis to disentangle substantive sustainability performance from symbolic disclosure (greenwashing) using ESG scoring and controversy trajectories of South African listed firms.
+
+**Methods:** Dynamic Time Warping (DTW) with temporal decay, bivariate similarity networks, community detection (modularity maximization), degree-preserving null models, Jaccard index, Spearman rank correlation, and Adjusted Rand Index (ARI).
+
+**Status:** Ongoing
+
+**Highlights:**
+- Built ESG‑disclosure and controversy‑trajectory similarity networks from a 12‑year panel of 80 firms  
+- Revealed near‑complete structural orthogonality between the two network layers (Jaccard = 0.07, Spearman ≈ 0, ARI = 0.02)  
+- Identified seven stable co‑evolution communities (modularity = 0.700) that persist over the entire study period  
+- Developed a screening tool that flags latent greenwashing risk through controversy peer exposure rather than ESG scores alone
