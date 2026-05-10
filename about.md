@@ -30,7 +30,7 @@ My dedication to fostering knowledge, methodological transparency, and practical
 | **Causal Machine Learning** | Double Machine Learning (DML), DoWhy, DirectLiNGAM, Causal Forests |
 | **Econometric Methods** | ARDL, Cointegration, Panel Data Analysis, Non-linear Models, Threshold Regression, Granger Causality |
 | **Machine Learning** | Supervised and unsupervised learning, Random Forests, Gradient Boosting, Neural Networks |
-| **Text Mining & Topic Modeling** | LLM-BERTopic, NLP, sentiment analysis, computational text analysis |
+| **Text Mining & Topic Modeling** | LLM-BERTopic, BERTrend, NLP, sentiment analysis, computational text analysis |
 | **Survey Design & Digital Data Collection** | KoboToolbox, ODK, questionnaire design, sampling strategies |
 | **Impact Evaluation** | Difference-in-Differences, Propensity Score Matching, Instrumental Variables, Synthetic Control Method |
 
