@@ -29,6 +29,7 @@ My dedication to fostering knowledge, methodological transparency, and practical
 | **Statistical Software** | Stata, EViews, Gretl, Matlab, R, SPSS, Python |
 | **Causal Machine Learning** | Double Machine Learning (DML), DoWhy, DirectLiNGAM, Causal Forests |
 | **Econometric Methods** | ARDL, Cointegration, Panel Data Analysis, Non-linear Models, Threshold Regression, Granger Causality |
+ |**Social Network Analysis** | Dynamic Time Warping (DTW), Mutual k‑Nearest Neighbour (k‑NN) Graphs, Multiplex Networks, Community Detection (Louvain), Consensus Clustering, Centrality Measures (Degree, Betweenness, Eigenvector, PageRank), Modularity Optimisation, Jaccard Edge Overlap, QAP Permutation Tests, Degree‑Preserving Null Models, Bootstrap Confidence Intervals |
 | **Machine Learning** | Supervised and unsupervised learning, Random Forests, Gradient Boosting, Neural Networks |
 | **Text Mining & Topic Modeling** | LLM-BERTopic, BERTrend, NLP, sentiment analysis, computational text analysis |
 | **Survey Design & Digital Data Collection** | KoboToolbox, ODK, questionnaire design, sampling strategies |
