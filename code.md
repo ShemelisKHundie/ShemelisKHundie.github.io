@@ -16,7 +16,7 @@ This page documents all Stata and Python scripts used in my research, with clear
 [Author_Keyword_Analysis.xlsx](data/Author_Keyword_Analysis.xlsx)
 
 ### **Code**
-`ardl_nardl_hungary.do`
+[analysis.do](code/stata/analysis.do)
 
 **Description:**  
 This Stata script estimates linear and nonlinear ARDL models to examine long-run and short-run dynamics between globalization, energy use, and environmental outcomes. Includes unit root testing, lag selection, bounds testing, and dynamic multipliers.
