@@ -10,15 +10,14 @@ This page documents all Stata and Python scripts used in my research, with clear
 ---
 
 ## 📘 Stata Workflows
-
-### 1. ARDL / NARDL Models  
 ### **Paper**
-Hundie, S. K., & Csapi, V. (2026). *Nonlinear effects of economic growth on environmental sustainability in Hungary: the roles of globalization and energy imports.*Energy, Ecology and Environment, 1–26. https://doi.org/10.1007/s40974-026-00409-8
+1. Hundie, S. K., & Csapi, V. (2026). *Nonlinear effects of economic growth on environmental sustainability in Hungary: the roles of globalization and energy imports.*Energy, Ecology and Environment, 1–26. https://doi.org/10.1007/s40974-026-00409-8
 ### **Data**
 (Will be attached)
 
 ### **Code**
 `ardl_nardl_hungary.do`
+
 **Description:**  
 This Stata script estimates linear and nonlinear ARDL models to examine long-run and short-run dynamics between globalization, energy use, and environmental outcomes. Includes unit root testing, lag selection, bounds testing, and dynamic multipliers.
 
