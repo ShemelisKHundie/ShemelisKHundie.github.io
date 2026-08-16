@@ -21,3 +21,6 @@ navigation:
     url: /projects
   - title: "CV"
     url: /cv
+  - title: "Code & Reproducibility"
+    url: /code
+
